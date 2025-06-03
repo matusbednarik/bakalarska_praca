@@ -91,7 +91,8 @@ Tréning a aplikácia **spaCy** modelu na detekciu názvov malvéru.
 - **`find_malware.py`**  
   - Aplikácia novo natrénovaného modelu na dáta z `crawledWebsites.json`  
   - Výstup: `articles_with_malware_entities_spacy.csv`
-
+- **`evaluate_model.py`**  
+  - Vyhodnotenie modelu na testovacej množine 
 ---
 
 ## 5. `CyNER-2.0-DeBERTa-v3-base`
